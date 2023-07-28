@@ -1,0 +1,433 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 7DCmGaHOoNAtZzNjcGzeLWXNmmM=
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/StayInsideMe.mp3
+SHA1-Digest: V81rEM9zJQricIa9xHfHITsu3gU=
+
+Name: assets/landEffect.plist
+SHA1-Digest: I2dmTE3iK9AWAawsDVT5j3cghJw=
+
+Name: assets/GJ_GameSheet.png
+SHA1-Digest: UVps1Fxsv0g15tKDsMO3PxI3nLY=
+
+Name: assets/explode_11.ogg
+SHA1-Digest: 3wHd3lEyl8TkgYWmK0T2eq2ejsI=
+
+Name: assets/chatFont-hd.fnt
+SHA1-Digest: cVFQS5ayqXUFRwqJcvzWozt5c3A=
+
+Name: assets/chatFont.fnt
+SHA1-Digest: rtKF8ee4hVmeWMbcGwL3Ceou5Zg=
+
+Name: assets/floor.png
+SHA1-Digest: N+PesxgD+TaGXosulfe2zGjDULY=
+
+Name: assets/loadingCircle-hd.png
+SHA1-Digest: /t2U1L3WU8VpvBkioPOdZ+eakjc=
+
+Name: assets/bumpEffect.plist
+SHA1-Digest: UMP5LD/fX2KM0tIgOlp++sd2ffw=
+
+Name: assets/gravityOverlay.png
+SHA1-Digest: YvxEC6Unx0qBGgi6+JgVuH515q4=
+
+Name: assets/speedEffect.plist
+SHA1-Digest: zNxAK/o8r68eLHg4+Yk5WvAZb9I=
+
+Name: assets/ringEffect.plist
+SHA1-Digest: omjqQpUKSC6dr+feWXB1vR0HUZE=
+
+Name: assets/game_bg_01_001-hd.png
+SHA1-Digest: TX9KHfj3/ewj1rXzXwfxxz3O18s=
+
+Name: assets/GJ_button_04.png
+SHA1-Digest: fmpkU/YjLGoAFomVPzbAeYU4DAI=
+
+Name: assets/goldFont-hd.fnt
+SHA1-Digest: MUEtE/5tWfsiCb3/jyAtEgymBt0=
+
+Name: assets/bigFont-hd.fnt
+SHA1-Digest: E9s1jwwDrY689mNJyQPLd4HjToo=
+
+Name: assets/sliderthumbsel-hd.png
+SHA1-Digest: McRTzl0wYop3dfwxT4AnSs7wsLE=
+
+Name: assets/endEffectPortal.plist
+SHA1-Digest: VWvq25sG7BGKgjFRp6p/gtoz8hE=
+
+Name: assets/objectDefinitions.plist
+SHA1-Digest: KoS0LAY8jkApvtqskYjtSp6//aQ=
+
+Name: assets/gk-icon.png
+SHA1-Digest: g1xf7f2H1DahCOF2mWj7o7C0+Wg=
+
+Name: assets/sliderthumb.png
+SHA1-Digest: DdraZRuqMKXgcOJ8/G4MVMozjSk=
+
+Name: assets/glitterEffect.plist
+SHA1-Digest: vY49q+xUoyDerjO9inVQhNNHP50=
+
+Name: assets/menuLoop.mp3
+SHA1-Digest: QDJFsOX6g3Vidt8Ge9VxeIbRWkc=
+
+Name: assets/fps_images-ipadhd.png
+SHA1-Digest: OjbAwCbrbp5UnUGRWM4RwBXPAaA=
+
+Name: assets/promo_mu.png
+SHA1-Digest: cA9fdc1DGyI2FNsTmLkS9NYwEDg=
+
+Name: assets/starEffect01.plist
+SHA1-Digest: EfIxRXHKBe4A19WwtYfM4dpG764=
+
+Name: assets/Skull_w_03.plist
+SHA1-Digest: ZVqxdkwuC/pq9K92QJxpCXyuU1A=
+
+Name: assets/GJ_LaunchSheet.plist
+SHA1-Digest: D8+MlSNPwOYI7RplDn+qsqIuEOM=
+
+Name: assets/edit_barBG_001-hd.png
+SHA1-Digest: VDhz58qEx+0pEOWHMgSZTM03fo0=
+
+Name: assets/portalEffect04.plist
+SHA1-Digest: K9n4PjqxAmZhsi7tabmzt++Hg8Y=
+
+Name: assets/GJ_gradientBG.png
+SHA1-Digest: r69RSmnRLqGHkK6x5geJrwEgaJE=
+
+Name: assets/BaseAfterBase.mp3
+SHA1-Digest: PkvF3K52XJuTmeGcLNlSZDLb0uE=
+
+Name: assets/CantLetGo.mp3
+SHA1-Digest: GEyZmHs/4bMbP+Ca5DEAoi0sup4=
+
+Name: assets/GJ_LaunchSheet.png
+SHA1-Digest: HXweb2mPgkQPvWSgNuXG0RxYlQI=
+
+Name: assets/fps_images.png
+SHA1-Digest: FSNyIGXTD1NNxB9G3+6i53c7NeA=
+
+Name: assets/GJ_GameSheet.plist
+SHA1-Digest: zwu19Ow8T90uTLxhaFEv+xhGf0o=
+
+Name: assets/playSound_01.ogg
+SHA1-Digest: OwAC5NQXwuhYIv3eu+6mGc4Qg/I=
+
+Name: resources.arsc
+SHA1-Digest: m/hk+cpsfLCpXfSIxzgTXWx7dmQ=
+
+Name: assets/shipDragEffect.plist
+SHA1-Digest: 5SRRgXpRiQCmaUpMJGCGZ4dO4mM=
+
+Name: assets/square02_001.png
+SHA1-Digest: RayfpMEsdsEGeaUjAGdplKScxTg=
+
+Name: assets/GJ_button_01.png
+SHA1-Digest: JL3ymjgOXCGypKRWVEx9MvVzOgw=
+
+Name: assets/GJ_square01-hd.png
+SHA1-Digest: gvJ3R5AoAhvfpgQ/J8P1i9mYUnU=
+
+Name: assets/square.png
+SHA1-Digest: u13zvYMOqcSmU5sP5lR8g5adFo4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: m2lIlmhb9fFW+6cTEkSbMIIRi14=
+
+Name: assets/portalEffect01.plist
+SHA1-Digest: lGE4rDVBOATBqpo54JvKi2SZEHc=
+
+Name: assets/gk-icon-hd.png
+SHA1-Digest: pyi2thmnXQjeK8Cr/2X8WqlRfrA=
+
+Name: assets/endStart_02.ogg
+SHA1-Digest: 7b2LFARQkq6NhNQb7aqv7r+KKf8=
+
+Name: assets/GJ_button_03-hd.png
+SHA1-Digest: 6+Grrndatz5Ma48a8RcitQI+yxU=
+
+Name: assets/GJ_square01.png
+SHA1-Digest: Kzs5arqK5lCclxDObx9susbWTZs=
+
+Name: assets/achievement_01.ogg
+SHA1-Digest: 7PopnAY1+kfcmwqTzxFcD3+rrJo=
+
+Name: assets/GJ_button_02-hd.png
+SHA1-Digest: IcTdEsqurVrD0xYUNj28FPpujEo=
+
+Name: assets/game_bg_01_001.png
+SHA1-Digest: pWX4PjDveqiy3SpjrorgjEZZmac=
+
+Name: assets/bigFont.fnt
+SHA1-Digest: l3Mhz767LJhXtSUhjZiKKoL9zVs=
+
+Name: assets/CCControlColourPickerSpriteSheet-hd.png
+SHA1-Digest: Pn2rf2oMd59o5bsC2BvrfCz3Ki0=
+
+Name: assets/smallDot-hd.png
+SHA1-Digest: jciFElKDOBnHj0EmnhceTGTKZF0=
+
+Name: assets/Skull_w_02.plist
+SHA1-Digest: vzA/2DZck8oyimX8wt1Lk010mU4=
+
+Name: assets/lvlupEffect.plist
+SHA1-Digest: zLryfd4SmZXWBreykRhevaAvNGg=
+
+Name: assets/fps_images-hd.png
+SHA1-Digest: YRXwZAiq4gvW+dZFfUNHpVfK56w=
+
+Name: assets/square02_small-hd.png
+SHA1-Digest: /BBByCQc0QZBjhJV0cPONzJbZ3w=
+
+Name: assets/quitSound_01.ogg
+SHA1-Digest: kxP/Gg445noqrso89pZ1py4/tL0=
+
+Name: assets/chargeEffect.plist
+SHA1-Digest: xMFNq6ECjehAiWMJaAJwM598O0o=
+
+Name: assets/promo_boom-hd.png
+SHA1-Digest: zgbQKbTNHX8xVRp4VAuPjhy+fhg=
+
+Name: assets/portalEffect02.plist
+SHA1-Digest: 9lY1tSHCVdowRZJDFILKz7fmLYE=
+
+Name: assets/GJ_GameSheet-hd.png
+SHA1-Digest: OKJpGoAZES1UPR9t2XFcdDlF5ig=
+
+Name: assets/goldFont.png
+SHA1-Digest: EWlMh50IjlpkaekQdb0364jLV5Q=
+
+Name: assets/sliderthumbsel.png
+SHA1-Digest: 3uam5VGiMEX4OtAmy3NZoYyUUS4=
+
+Name: assets/GJ_button_03.png
+SHA1-Digest: Vv9S6jJ3Mw39PFdR5ZK75XO6KiY=
+
+Name: assets/GJ_progressBar_001-hd.png
+SHA1-Digest: QpPPAbWz9OyR5C1BebXUsGvC1OM=
+
+Name: assets/starFall.plist
+SHA1-Digest: cVPvKxCXcsWChRDvidPJJ/Yre2g=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: bDuSkdkLVEecgNwBJD+eKtc581A=
+
+Name: assets/sun.png
+SHA1-Digest: fy9VOBOBmeHVWNCrXmjoZNCbpek=
+
+Name: assets/groundSquare_001.png
+SHA1-Digest: KoqqfqZSqCF8hLeliplahIgc9qc=
+
+Name: assets/square03_001.png
+SHA1-Digest: Mwa+vquaqOtLKRkb2LRmTiv+liM=
+
+Name: assets/streak.png
+SHA1-Digest: 4/85lEJUzx99YHgAcWJsf+uXE6o=
+
+Name: assets/GJ_GameSheet-hd.plist
+SHA1-Digest: habmmFn8p1Gu/HCefy9A1rQeNrw=
+
+Name: assets/floor-hd.png
+SHA1-Digest: R49egm1uRgQo/NoLzmv3wvwrkcg=
+
+Name: assets/chatFont-hd.png
+SHA1-Digest: tck4bCJbH/LR/Qd6U1tcGmzTFBo=
+
+Name: assets/dragEffect.plist
+SHA1-Digest: dNDF20C97/4y7tJBMq9fWu4p07I=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: SIWPQrvSka06y8D1699Bw1dP80M=
+
+Name: assets/Skull_w_01.plist
+SHA1-Digest: 8oaBH3R545Xc9CHMYpKXQJUJbmc=
+
+Name: assets/stoneHit.plist
+SHA1-Digest: imM2C7myXdg9Ytzw/CKfp7Xw6v0=
+
+Name: assets/CCControlColourPickerSpriteSheet.png
+SHA1-Digest: gBvGKbY/NjcWX1ZVtklbEgD8lk0=
+
+Name: assets/levelComplete01.plist
+SHA1-Digest: KrEvLluwzXp/2hRGqOwLqZr7jJA=
+
+Name: assets/firework.plist
+SHA1-Digest: S+/9YPruIhxi7iuSV+LXSSViGZI=
+
+Name: assets/groundSquare_001-hd.png
+SHA1-Digest: AK72B1DTG1y/oeoJgdmRJAGFq3U=
+
+Name: assets/loadingCircle.png
+SHA1-Digest: CugnQwKjv/XjoZPjFdo5r3OL3y4=
+
+Name: assets/portalEffect03.plist
+SHA1-Digest: ToWor835YdsWUBkgPY/PfRDihSI=
+
+Name: assets/slidergroove_02.png
+SHA1-Digest: WcLfqAje3atmXXCCPcEWS/nJ5Ik=
+
+Name: assets/square02_001-hd.png
+SHA1-Digest: MLNkJt3CEtq3+79E7yeGM172uQ0=
+
+Name: assets/chatFont.png
+SHA1-Digest: 4Jzyf+HWPmp3TWQA2PrHfdttpnk=
+
+Name: assets/BackOnTrack.mp3
+SHA1-Digest: RWsyn6ApvAlDBF+u8wvjz/WxSKo=
+
+Name: assets/goldFont-hd.png
+SHA1-Digest: VxKGY3oiroIlDpG08F8GVaK2Px8=
+
+Name: assets/GJ_gradientBG-hd.png
+SHA1-Digest: Kbt9uWSd2joHhrQhHHg4sD9MxGg=
+
+Name: assets/slidergroove_02-hd.png
+SHA1-Digest: RMgEw1jo0QDQ9X1trAtXW3ps0I4=
+
+Name: assets/bigFont-hd.png
+SHA1-Digest: gCCaGA+q8k08uiXJnRbqXFz0zKc=
+
+Name: assets/StereoMadness.mp3
+SHA1-Digest: 8gEkbPEGKctiMRrbgEe+CILIJYo=
+
+Name: assets/edit_barBG_001.png
+SHA1-Digest: 6RwlorKzxGBlGlgXlJP6776PPP0=
+
+Name: assets/explodeEffect.plist
+SHA1-Digest: O3opKzUtiIi8f9eJsR4WpZPk3R0=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: fCuhwQZ/B6DE3+PJE+SCMCjmcGg=
+
+Name: assets/square04_001.png
+SHA1-Digest: 1tda4J8TqACzZ9UotBt/eXFCyg0=
+
+Name: assets/square02b_001-hd.png
+SHA1-Digest: ejaa8mnngFqJlO16t5XR1enTCwI=
+
+Name: assets/sliderBar.png
+SHA1-Digest: tq/30iqSMifOB8hcCa6yi08dg+s=
+
+Name: assets/square02b_001.png
+SHA1-Digest: 9Z2IPZXj5vsSZUe7IYlBVcJOu9s=
+
+Name: assets/slidergroove-hd.png
+SHA1-Digest: 8NcYc/aI5jlSIK6DcS4co6PybaA=
+
+Name: assets/sliderthumb-hd.png
+SHA1-Digest: SWsw5YLJlTpXHXeCis5BX72ygkg=
+
+Name: assets/CCControlColourPickerSpriteSheet-hd.plist
+SHA1-Digest: IIHeRSHBUQ2kOhN6PcyuB5OcXXk=
+
+Name: assets/GJ_moveSBtn-hd.png
+SHA1-Digest: b/+xIMHS/ul7w+GphbIw2Zs8A5w=
+
+Name: assets/trailEffect.plist
+SHA1-Digest: 7hOma2jzpQ9+m5p2JqmUHZw7yYw=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: LdPSbRWf8xs/2zfaduCqg34Tg1o=
+
+Name: assets/square01_001-hd.png
+SHA1-Digest: cS2VJffbQxfrUWlzxyq+gzl56Vk=
+
+Name: assets/GJ_LaunchSheet-hd.png
+SHA1-Digest: lZFomr2JvsQByGY9cBAocGVhfqo=
+
+Name: assets/square04_001-hd.png
+SHA1-Digest: yN43S0VtXS9PjgzHsFpmw5kJvlg=
+
+Name: assets/square01_001.png
+SHA1-Digest: Ss9pPjg6oOQ8g+5gwZKfUrYgcX0=
+
+Name: assets/AchievementsDesc.plist
+SHA1-Digest: YvCfRGhdB1ybV7O0dNU/Jo/8NrQ=
+
+Name: assets/GJ_moveSBtn.png
+SHA1-Digest: z5g8YEJdn/cM9ta+V0VisGv8Lmg=
+
+Name: assets/GJ_progressBar_001.png
+SHA1-Digest: Tl3laGWkdKpLHh3D2G0MYfLnD6g=
+
+Name: assets/GJ_button_01-hd.png
+SHA1-Digest: iogIXCIOalyJS0VU11eOecJUhEM=
+
+Name: assets/GJ_button_04-hd.png
+SHA1-Digest: Xtc5zqPyKeNbyho5p8VHJ7hxDsQ=
+
+Name: assets/sliderBar-hd.png
+SHA1-Digest: SjExjdmvEVQyyDqrMYQkeSj1r+I=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: fVFQZSXWVSpTvCjQ92ZA5L9a02M=
+
+Name: assets/promo_mm.png
+SHA1-Digest: 5z54+yzC8Zok91sGCrtF02yRW3k=
+
+Name: assets/GJ_moveBtn.png
+SHA1-Digest: 9WIu3qqylV2UlPQNKOiYv1jc83o=
+
+Name: assets/starEffect.plist
+SHA1-Digest: v83XDnJhTFnZK+xy9XWMIysI6p4=
+
+Name: assets/glitterEffectIcon.plist
+SHA1-Digest: V0VKzrbTvWbOpJ3uSMhuv3Q3hVo=
+
+Name: assets/GJ_LaunchSheet-hd.plist
+SHA1-Digest: PKqJzWaPi2ptyr0S/WnEG0taecg=
+
+Name: assets/slidergroove.png
+SHA1-Digest: 9+y0PQLgT+e3q4ZhSy7W1mpZWy0=
+
+Name: assets/promo_mm-hd.png
+SHA1-Digest: J+Sl4h3tECEqvq4WLQtSQEwHzrg=
+
+Name: assets/goldFont.fnt
+SHA1-Digest: RX/kDfdfS+H2jDNRKD3Kn+TJbTw=
+
+Name: assets/DryOut.mp3
+SHA1-Digest: gzAJhY5PbQGuJgMEUQbmGa8dphI=
+
+Name: assets/Polargeist.mp3
+SHA1-Digest: ymdXJrj85RQP/6virsJFAzeiodg=
+
+Name: assets/streakDWhite.png
+SHA1-Digest: DK8XI8DqqTX6zLKG/RXH/Al3U4Y=
+
+Name: assets/gravityOverlay-hd.png
+SHA1-Digest: EeIvt1X+vGDsgYCZqIOsKskH4bE=
+
+Name: assets/square02_small.png
+SHA1-Digest: DUzLMsV+DUBX7q4hIB81T6c+NBY=
+
+Name: assets/bigFont.png
+SHA1-Digest: DH+13R13qJcQKInWYyfMnzHWFqA=
+
+Name: assets/smallDot.png
+SHA1-Digest: TVlB2y7MG3F7UTlV6eRXoEJCB6c=
+
+Name: assets/GJ_button_02.png
+SHA1-Digest: GSpq4G+pb4tAX9KLwN+tPmeN9fI=
+
+Name: assets/GJ_moveBtn-hd.png
+SHA1-Digest: DdBtCFpahTzaLxrnSENWFz69700=
+
+Name: assets/promo_mu-hd.png
+SHA1-Digest: ly9PAqHLiY0LOqpbIXVtM3fu+AE=
+
+Name: assets/CCControlColourPickerSpriteSheet.plist
+SHA1-Digest: FdC5kovkN/6oK2SqpsawDBsgGPI=
+
+Name: assets/promo_boom.png
+SHA1-Digest: GOqc+d71sRHATKbUhWLZwO6ma0Q=
+
+Name: assets/square03_001-hd.png
+SHA1-Digest: SgQO2I3BkLHs1/Ll5us50J70CaI=
+
+Name: assets/Jumper.mp3
+SHA1-Digest: I/2yNyrlkiQov8Pss5S5MDm/BGg=
+
+Name: classes.dex
+SHA1-Digest: 2igmOmqyHo35IHirbxCyW5OEZYA=
+
