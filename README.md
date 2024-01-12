@@ -1,0 +1,1 @@
+This is a source code decompilation of the Android version of Geometry Dash 1.00. I don't remember what it was decompiled with though. I just kinda searched "apk decompiler" and went with the first or second option.
